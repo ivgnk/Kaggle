@@ -26,6 +26,7 @@ https://github.com/Kaggle/learntools
 # Colab.research.google
 [Добро пожаловать в Colab!](https://colab.research.google.com/?hl=ru_RU)          
 [28.06.2022] [За кулисами Google Colab](https://habr.com/ru/companies/skillfactory/articles/673572/)               
+01.10.2022 [What is Google Colab: A Beginner’s Guide](https://bytexd.com/what-is-google-colab-a-beginner-guide/)                         
 14.11.2023 [Что такое Google Colab и кому он нужен](https://practicum.yandex.ru/blog/bloknot-google-colab-dlya-programmirovaniya-python/)                                  
 22.11.2023 [Что такое Google Colab и кому он нужен](https://blog.skillfactory.ru/chto-takoe-google-colaboratory-i-komu-on-nuzhen/)                     
 
