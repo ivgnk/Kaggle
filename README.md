@@ -3,6 +3,9 @@
 ### How-to
 [How to use Kaggle API as a Python library](https://www.kaggle.com/code/harupy/how-to-use-kaggle-api-as-a-python-library)                       
 
+https://www.kaggle.com/learn               
+https://www.kaggle.com/learn/intro-to-programming           
+
 ### data
 https://www.kaggle.com/competitions/titanic/data            
 
