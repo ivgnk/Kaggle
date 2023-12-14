@@ -25,3 +25,4 @@ https://github.com/Kaggle/learntools
 
 # Colab.research.google
 [Добро пожаловать в Colab!](https://colab.research.google.com/?hl=ru_RU)          
+14.11.2023 [Что такое Google Colab и кому он нужен](https://practicum.yandex.ru/blog/bloknot-google-colab-dlya-programmirovaniya-python/)                           
