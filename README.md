@@ -26,6 +26,8 @@ https://github.com/Kaggle/learntools
 # Colab.research.google
 **https://github.com/googlecolab**
 
+[stavis-dev.github.io: Google Colab](https://stavis-dev.github.io/python/google-colab/)
+
 [Добро пожаловать в Colab!](https://colab.research.google.com/?hl=ru_RU)          
 04.03.2022 [Google Colab: что это такое и как с ним работать](https://sky.pro/media/google-colab/?ysclid=lq5b15rrl345324936)                       
 [28.06.2022] [За кулисами Google Colab](https://habr.com/ru/companies/skillfactory/articles/673572/)               
