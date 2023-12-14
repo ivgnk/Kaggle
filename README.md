@@ -31,3 +31,5 @@ https://github.com/Kaggle/learntools
 
 https://www.youtube.com/results?search_query=Google+Colab+обзор               
 21.08.2020 [Video: Google Colab - блокнот для программиста Python (обзор с нуля)](https://www.youtube.com/watch?v=rt4806DzfUY)         
+      
+[habr search colab](https://habr.com/ru/search/?target_type=posts&order=relevance&q=%5Bcolab%5D)                  
