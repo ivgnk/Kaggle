@@ -1,5 +1,9 @@
 # Kaggle           
 ## Kaggle.com                
+### How-to
+[How to use Kaggle API as a Python library](https://www.kaggle.com/code/harupy/how-to-use-kaggle-api-as-a-python-library)                       
+
+### data
 https://www.kaggle.com/competitions/titanic/data            
 
 ## Github           
@@ -13,3 +17,7 @@ https://github.com/Kaggle/learntools
 # Articles
 ## RUS           
 03.10.2020 [Осваиваем Python и машинное обучение с помощью Kaggle](https://proglib.io/p/izuchenie-python-i-mashinnogo-obucheniya-s-pomoshchyu-kaggle-2020-10-03)           
+
+## ENG
+[How to Download Kaggle Datasets into Jupyter Notebook?](https://www.geeksforgeeks.org/how-to-download-kaggle-datasets-into-jupyter-notebook/)              
+
